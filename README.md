@@ -7,9 +7,9 @@
 I’m passionate about designing intelligent systems that blend **AI, robotics, and product design** to solve real-world problems — from **autonomous drones** to **smart campus delivery**.
 
 Currently:  
-- 🛩️ **AI/ML Engineering Intern @ Air Force Research Laboratory (AFRL)**  
-- 🚍 **Data Analyst Intern @ MTA (NYC)**  
-- 🍔 **Founder & CTO @ [QuickBites Delivery](https://apps.apple.com/us/app/quickbites-delivery/id6745470307)**  
+- 🛩️ **AI/ML Research Intern @ Air Force Research Laboratory (AFRL)**  
+- 🍔 **Founder & CTO @ [QuickBites Delivery](https://apps.apple.com/us/app/quickbites-delivery/id6745470307)**
+- 🌳 **Sustainability Consulting Fellow - AccountAbility ESG Firm**  
 
 ---
 
