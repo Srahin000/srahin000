@@ -65,7 +65,7 @@ I’m also a **Break Through Tech AI/ML Fellow** and **AccountAbility S-Lab Fell
 
 ---
 
-### 🤖 Cadence Design Systems AI Recruitment System (Break Through Tech Fall AI Studio Project)
+### 🤖 AI Recruitment System (Breakthrough Tech Fall AI Studio - Cadence Design Systems)
 > **Problem:** Recruiters waste hours filtering unqualified resumes manually.  
 > **Solution:** NLP-powered system ranking resumes based on semantic similarity and skills.  
 **Tech Stack:** Python · spaCy · Transformers (BERT, RoBERTa) · FastAPI · Hugging Face  
